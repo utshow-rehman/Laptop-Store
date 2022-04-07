@@ -1,0 +1,63 @@
+[
+    {
+      "name": "Dell Inspiron 15 3510",
+       "id": 1,
+       "img":"/Images/im1.png",
+     "price":50000
+   },
+   {
+    "name": "Dell Inspiron 15 3510",
+     "id": 2,
+     "img":"/Images/im2.jpg",
+   "price":60000
+    },
+    {
+        "name": "Dell Inspiron 15 3510",
+         "id": 3,
+         "img":"/Images/im3.jpg",
+       "price":50000
+     },
+     {
+        "name": "Dell Inspiron 15 3510",
+         "id": 4,
+         "img":"/Images/im4.JPG",
+       "price":80000
+     },
+     {
+        "name": "Dell Inspiron 15 3510",
+         "id": 5,
+         "img":"/Images/im5.png",
+       "price":50000
+     },
+     {
+        "name": "Dell Inspiron 15 3510",
+         "id": 6,
+         "img":"/Images/im6.png",
+       "price":50000
+     },
+     {
+        "name": "Dell Inspiron 15 3510",
+         "id": 7,
+         "img":"/Images/im7.png",
+       "price":70000
+     },
+     {
+        "name": "Dell Inspiron 15 3510",
+         "id": 8,
+         "img":"/Images/im8.jpeg",
+       "price":80000
+     },
+     {
+        "name": "Dell Inspiron 15 3510",
+         "id": 9,
+         "img":"/Images/im9.jpg",
+       "price":920000
+     },
+     {
+        "name": "Dell Inspiron 15 3510",
+         "id": 10,
+         "img":"/Images/im10.jpg",
+       "price":100000
+     }
+  
+  ]
