@@ -1,5 +1,7 @@
 import React from 'react';
 import "./Laptop.css"
+import { BsFillCartFill } from "react-icons/bs";
+
 const Laptop = ({laptop,handleAddToCart}) => {
     const { name, id,img,price } = laptop;
    
@@ -15,7 +17,7 @@ const Laptop = ({laptop,handleAddToCart}) => {
           <div className='card-footer'>
            <h3>$ {price}</h3>
           <button className='btn btn-primary' onClick={() =>handleAddToCart(laptop)}>
-               Add to cart
+               Add to cart  <BsFillCartFill />
           </button>
           </div>
        
