@@ -1,6 +1,6 @@
 # laptop Store
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Online Repository](https://heroic-chimera-be2500.netlify.app/).
 
 ## Available Scripts
 
