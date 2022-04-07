@@ -26,9 +26,11 @@ const AllLaptop = () => {
             setCart([]);
       }
       const random=() =>{
+           if(carts.length>0){
            const val= [carts[Math.floor(Math.random() * carts.length)]];
            choseAgain();
            setCart(val);
+           }
         
       }
 

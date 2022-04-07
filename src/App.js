@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div className="App">
-        <h1>Laptop Store</h1>
+        <h1 className='text-primary'>Laptop Store</h1>
         <AllLaptop></AllLaptop>
       
     </div>
