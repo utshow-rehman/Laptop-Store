@@ -2,20 +2,22 @@ import React from 'react';
 import "./Laptop.css"
 const Laptop = ({laptop,handleAddToCart}) => {
     const { name, id,img,price } = laptop;
-    console.log(img);
+   
     return (
-        <div className='col-4 card'>
+        <div className='col-12 col-md-4  card  g-2'>
         <div>
-          <img className='img-fluid' src={img} alt='' />
+          <img className='img-fluid im' src={img} alt='' />
         </div>
-        <div className=''>
-          <h2>{name}</h2>
-        </div>
-       
-          <button onClick={() =>handleAddToCart(laptop)}>
+          <div className='card-body'>
+            <h3>ID: {id}</h3>
+          <h3>{name}</h3>
+          </div>
+          <div className='card-footer'>
+           <h3>$ {price}</h3>
+          <button className='btn btn-primary' onClick={() =>handleAddToCart(laptop)}>
                Add to cart
           </button>
-          <h1>$ {price}</h1>
+          </div>
        
       </div>
        

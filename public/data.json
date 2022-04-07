@@ -2,61 +2,61 @@
     {
       "name": "Dell Inspiron 15 3510",
        "id": 1,
-       "img":"/Images/im1.png",
+       "img":"https://i.ibb.co/pnWqxVK/im1.png",
      "price":50000
    },
    {
-    "name": "Dell Inspiron 15 3510",
+    "name": "Dell Vostro 3500",
      "id": 2,
-     "img":"/Images/im2.jpg",
+     "img":"https://i.ibb.co/7CGkVdv/im2.jpg",
    "price":60000
     },
     {
-        "name": "Dell Inspiron 15 3510",
+        "name": "Dell Inspiron 14 (5410) 2-in-1",
          "id": 3,
-         "img":"/Images/im3.jpg",
+         "img":"https://i.ibb.co/2gLtT8D/im3.jpg",
        "price":50000
      },
      {
-        "name": "Dell Inspiron 15 3510",
+        "name": "Dell Alienware x17 R1",
          "id": 4,
-         "img":"/Images/im4.JPG",
+         "img":"https://i.ibb.co/PjQZNb7/im4.jpg",
        "price":80000
      },
      {
-        "name": "Dell Inspiron 15 3510",
+        "name": "Dell Latitude 9520",
          "id": 5,
-         "img":"/Images/im5.png",
+         "img":"https://i.ibb.co/Y7d275L/im5.png",
        "price":50000
      },
      {
-        "name": "Dell Inspiron 15 3510",
+        "name": "HP Chromebook x360 14a",
          "id": 6,
-         "img":"/Images/im6.png",
+         "img":"https://i.ibb.co/Ldpm7sc/im6.png",
        "price":50000
      },
      {
-        "name": "Dell Inspiron 15 3510",
+        "name": "HP Envy 14-eb0021TX",
          "id": 7,
-         "img":"/Images/im7.png",
+         "img":"https://i.ibb.co/7WrPJ3Q/im7.png",
        "price":70000
      },
      {
-        "name": "Dell Inspiron 15 3510",
+        "name": "HP Envy 15 (2021)",
          "id": 8,
-         "img":"/Images/im8.jpeg",
+         "img":"https://i.ibb.co/ySFqxkc/im8.jpg",
        "price":80000
      },
      {
-        "name": "Dell Inspiron 15 3510",
+        "name": "HP Victus 16 E Series",
          "id": 9,
-         "img":"/Images/im9.jpg",
+         "img":"https://i.ibb.co/GTqZ6ZX/im9.jpg",
        "price":920000
      },
      {
-        "name": "Dell Inspiron 15 3510",
+        "name": "HP Pavilion Aero 13",
          "id": 10,
-         "img":"/Images/im10.jpg",
+         "img":"https://i.ibb.co/QmGLVNm/im10.webp",
        "price":100000
      }
   
