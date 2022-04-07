@@ -14,14 +14,25 @@ const AllLaptop = () => {
           .then((data) => setLaptop(data));
       }, []);
       const handleAddToCart = (laptop) => {
+         
+           if(!carts.includes(laptop)){
             const newCart=[...carts,laptop];
             setCart(newCart);
+           }
+          
       };
-
+   
       const choseAgain=() =>{
-          console.log("ok");
             setCart([]);
       }
+      const random=() =>{
+           const val= [carts[Math.floor(Math.random() * carts.length)]];
+           choseAgain();
+           setCart(val);
+        
+      }
+
+
 
     return (
           
@@ -42,7 +53,7 @@ const AllLaptop = () => {
                      carts.map((cart)=>(
                              <Cart cart={cart} key={cart.id}></Cart>
                      ))}
-              <button className='btn btn-success'>Choose One For Me</button>
+              <button className='btn btn-success'  onClick={() => random()}>Choose One For Me</button>
               <br />
               <button type="button" className="btn btn-secondary mt-2" onClick={() => choseAgain()}>CHOOSE AGAIN</button>
                
