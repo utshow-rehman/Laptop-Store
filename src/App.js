@@ -1,14 +1,15 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import AllLaptop from './Component/AllLaptop';
+import BonusQuestion from './BonusQuestion';
 
 function App() {
 
   return (
-    <div className="App">
-        <h1 className='text-primary'>Laptop Store</h1>
+    <div>
+        <h1 className='text-primary text-center'>Laptop Store</h1>
         <AllLaptop></AllLaptop>
-      
+        <BonusQuestion></BonusQuestion>
     </div>
   );
 }

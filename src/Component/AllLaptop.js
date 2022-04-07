@@ -49,7 +49,7 @@ const AllLaptop = () => {
              ))}
             
           </div>
-          <div className="w-25">
+          <div className="w-25 ms-5">
                   <h1>Selected laptop</h1>
                 {
                      carts.map((cart)=>(
