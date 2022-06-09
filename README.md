@@ -1,6 +1,6 @@
 # laptop Store
 
-## Project Repository [Link](https://heroic-chimera-be2500.netlify.app/).
+## Project Live [Link](https://heroic-chimera-be2500.netlify.app/).
 
 
 
